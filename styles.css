@@ -1,14 +1,14 @@
 body {
-    background:#fcd9f1; 
-    color: #99698a;
+    background:#775331; 
+    color: #968a7f;
 }
 
 a {
-    color: #b55c98 
+    color: #ffdbba 
 }
 
 a:hover {
-    color: #9e4380
+    color: #8c7866  
 }
 
 #port-nav ul {
@@ -24,15 +24,15 @@ a:hover {
     padding: 5px 50px 5px 50px;
     font-size: 16px;
     border-radius: 15px;
-    background: #c491b6;
+    background: #e5a76e;
     transition : all .5s linear
 }
 
 #port-nav>ul>li>a:hover {
     padding: 10px 50px 10px 50px;
-    color: #ffff;
-    background: pink;
-    color #99698a;
+    color: #66513f;
+    background: #512a05;
+    color #ff0000;
     border-radius: 20px
     transition : all .5s linear; 
 }
