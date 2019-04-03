@@ -2,3 +2,36 @@ body {
     background:#fcd9f1; 
     color: #99698a;
 }
+
+a {
+    color: #b55c98 
+}
+
+a:hover {
+    color: #9e4380
+}
+
+#port-nav ul {
+    list-style: none;
+}
+
+#port-nav>ul>li {
+    display: inline;
+}
+
+#port-nav>ul>li>a {
+    padding: 5px 50px 5px 50px;
+    font-size: 16px;
+    border-radius: 15px;
+    background: #c491b6;
+    transition : all .5s linear
+}
+
+#port-nav>ul>li>a:hover {
+    padding: 10px 50px 10px 50px;
+    color: #ffff;
+    background: pink;
+    color #99698a;
+    border-radius: 20px
+    transition : all .5s linear; 
+}
